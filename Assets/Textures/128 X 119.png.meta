@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 1a21ebac656b0494c8e2c2d543f5ae89
+timeCreated: 1476022485
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 128 X 119_0
+    21300002: 128 X 119_1
+    21300004: 128 X 119_2
+    21300006: 128 X 119_3
+    21300008: 128 X 119_4
+    21300010: 128 X 119_5
+    21300012: 128 X 119_6
+    21300014: 128 X 119_7
+    21300016: 128 X 119_8
+    21300018: 128 X 119_9
+    21300020: 128 X 119_10
+    21300022: 128 X 119_11
+    21300024: 128 X 119_12
+    21300026: 128 X 119_13
+    21300028: 128 X 119_14
+    21300030: 128 X 119_15
+    21300032: 128 X 119_16
+    21300034: 128 X 119_17
+    21300036: 128 X 119_18
+    21300038: 128 X 119_19
+    21300040: 128 X 119_20
+    21300042: 128 X 119_21
+    21300044: 128 X 119_22
+    21300046: 128 X 119_23
+    21300048: 128 X 119_24
+    21300050: 128 X 119_25
+    21300052: 128 X 119_26
+    21300054: 128 X 119_27
+    21300056: 128 X 119_28
+    21300058: 128 X 119_29
+    21300060: 128 X 119_30
+    21300062: 128 X 119_31
+    21300064: 128 X 119_32
+    21300066: 128 X 119_33
+    21300068: 128 X 119_34
+    21300070: 128 X 119_35
+    21300072: 128 X 119_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 128 X 119_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 600
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 597
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 595
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 595
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 596
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 598
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 483
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 488
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 494
+        width: 110
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 500
+        width: 115
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 504
+        width: 117
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_11
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 508
+        width: 118
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 394
+        width: 117
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 392
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 388
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 384
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_16
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 382
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_17
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 381
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 262
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 262
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 263
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 265
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 269
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_23
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 273
+        width: 99
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 159
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 163
+        width: 110
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 164
+        width: 111
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 165
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 164
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_29
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 160
+        width: 114
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 36
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 23
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 35
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_35
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 35
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 128 X 119_36
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4
+        width: 212
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
